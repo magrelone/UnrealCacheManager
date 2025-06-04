@@ -1,5 +1,6 @@
 Unreal Engine Cache Manager Pro
 
+![ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7](https://github.com/user-attachments/assets/0726e293-aec4-44b1-8948-407d337f4b86)
 
 📌 Visão Geral
 
