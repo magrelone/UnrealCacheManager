@@ -1,6 +1,6 @@
 Unreal Engine Cache Manager Pro
 
-Unreal Engine Logo
+
 📌 Visão Geral
 
 O Unreal Engine Cache Manager Pro é uma ferramenta avançada para gerenciar e otimizar os arquivos de cache gerados pelo Unreal Engine. Ele ajuda desenvolvedores a:
