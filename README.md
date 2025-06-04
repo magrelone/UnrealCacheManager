@@ -65,7 +65,7 @@ Método 1: Executável (Windows)
 Método 2: Via Código Fonte
 bash
 
-git clone https://github.com/seu-usuario/unreal-cache-manager.git
+git clone https://github.com/magrelone/UnrealCacheManager.git
 cd unreal-cache-manager
 pip install -r requirements.txt
 python main.py
